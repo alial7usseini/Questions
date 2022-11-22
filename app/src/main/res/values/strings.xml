@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Questions</string>
+    <string name="banner_ad_unit_id">code admob Banner</string>
+    <string name="APPLICATION_ID" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="Banner" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Interstitial" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="Rewarded" translatable="false">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="App_Open" translatable="false">ca-app-pub-3940256099942544/3419835294</string>
+    <string name="Native" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="Timer">25</string>
+    <string name="level">المستوى</string>
+    <string name="score">النتيجة:</string>
+    <string name="Open">فتح التطبيق</string>
+    <string name="Assess">تقييم التطبيق</string>
+    <string name="Connect_with_us">تواصل معنا</string>
+    <string name="Share">شارك للاصدقاء</string>
+    <string name="about">نبذة عن التطبيق</string>
+    <string name="points">نقاط المساعدة :</string>
+    <string name="add_points">إضافة نقاط</string>
+    <string name="The_answer_is_wrong">"خطأ الجواب الصحيح رقم : "</string>
+    <string name="Class_name1">الصف الاول الاعدادى</string>
+    <string name="Class_name2">الصف الثانى الاعدادى</string>
+    <string name="Class_name3">الصف الثالث الاعدادي</string>
+    <string name="Season1">فقه حنفى</string>
+    <string name="Season2">فقه شافعى</string>
+    <string name="Season3">توحيد</string>
+    <string name="Season4">تفسير</string>
+    <string name="Season5">حديث</string>
+    <string name="Season6">سيرة</string>
+    <string name="Season7">تجويد</string>
+    <string name="Season8">منهج القرآن</string>
+    <string name="Season9">#</string>
+    <string name="text">لو حلمك يستاهل ذاكر علشانـه</string>
+    <string name="Title1">شرح</string>
+    <string name="Title2">السؤال والاجابة</string>
+    <string name="Title3">الاختبارت الشهرية</string>
+    <string name="Title4">الامتحانات السابقه</string>
+
+</resources>

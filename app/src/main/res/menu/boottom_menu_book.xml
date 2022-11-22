@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/other"
+        android:icon="@drawable/switch_account"
+        android:onClick="account"
+        android:title="@string/Connect_with_us"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/shareButton"
+        android:icon="@drawable/icon_share"
+        android:onClick="share"
+        android:title="@string/Share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:enabled="false"
+        android:title=""
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/selectpdf"
+        android:icon="@drawable/point_a"
+        android:onClick="like"
+        android:title="@string/Assess"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/bm4"
+        android:icon="@drawable/point_a"
+        android:title="@string/about"
+        app:showAsAction="ifRoom" />
+
+</menu>

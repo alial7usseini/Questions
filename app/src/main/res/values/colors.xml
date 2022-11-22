@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryVariant">#f78c94</color>
+    <color name="colorPrimary">#f78c94</color>
+    <color name="purple_700">#f78c94</color>
+    <color name="teal_200">#f78c94</color>
+    <color name="teal_700">#ed828a</color>
+    <color name="black">#FF000000</color>
+    <color name="background">#68F78C94</color>
+    <color name="transparent_white">#40FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gary0">#eee</color>
+    <color name="gary1">#939292</color>
+    <color name="gary2">#9A9797</color>
+    <color name="gary3">#EFEFFE</color>
+    <color name="White">#FFFF</color>
+    <color name="colorRed">#ed828a</color>
+    <color name="colorOffWhite">#f8f8ff</color>
+    <color name="colorAccent">#f8f8ff</color>
+    <color name="colorBlue">#3F51B5</color>
+    <color name="colorPrimaryDark">#ed828a</color>
+    <color name="colorblack">#ed828a</color>
+    <color name="textcolor">#000000</color>
+    <color name="color_btn">#ec4f00</color>
+    <color name="bag_clor_1">#FDFF8F</color>
+    <color name="bag_clor_2">#A8ECE7</color>
+    <color name="bag_clor_3">#F4BEEE</color>
+    <color name="bag_clor_4">#D47AE8</color>
+    <color name="bag_clor_5">#89CFFD</color>
+    <color name="bag_clor_6">#7CB342</color>
+    <color name="bag_clor_7">#FF7F3F</color>
+    <color name="bag_clor_8">#F94892</color>
+    <color name="bag_clor_9">#D57E7E</color>
+    <color name="bag_clor_10">#A2CDCD</color>
+    <color name="bag_clor_11">#FFE1AF</color>
+
+</resources>
+
